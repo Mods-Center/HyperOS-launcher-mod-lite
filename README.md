@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Optimised app-open animations
 - Custom grid sizes
 - Choose the widget provider
@@ -21,19 +21,19 @@
 - Stacked recents
 - Widget support and performance tweaks from the main mod
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-launcher-mod-lite/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a30d1e52-a0cd-44ce-b286-b9b386d0552b" width="23%" alt="HyperOS Launcher Mod Lite"/>
   <img src="https://github.com/user-attachments/assets/998918f7-ed9a-4d8b-8294-142aad3bc82d" width="23%" alt="HyperOS Launcher Mod Lite"/>
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-launcher-mod-lite/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-launcher-mod-lite/issues)
 
 </div>
